@@ -15,22 +15,22 @@ Newtonsoft.Json:
 
 Projeyi klonlayın:
 
-Kodu kopyala
+
 git clone https://github.com/kullaniciadi/NobetciEczane_Mvc_API.git
 Proje dizinine gidin:
 
 
-Kodu kopyala
+
 cd NobetciEczane_Mvc_API
 Gerekli paketleri yükleyin:
 
 
-Kodu kopyala
+
 dotnet restore
 Uygulamayı çalıştırın:
 
 
-Kodu kopyala
+
 dotnet run
 
 
