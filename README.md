@@ -34,6 +34,7 @@ Uygulamayı çalıştırın:
 dotnet run
 
 
-İzmir: /Home/Izmir
+İzmir: /Home/Izmir 
+
 Kayseri: /Home/Kayseri
 # Asp.net-core_MVC_EZCANE_Api
